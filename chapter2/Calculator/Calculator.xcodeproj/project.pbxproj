@@ -11,6 +11,7 @@
 		7CC441E425CA9AC900974915 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC441E325CA9AC900974915 /* ContentView.swift */; };
 		7CC441E625CA9ACC00974915 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CC441E525CA9ACC00974915 /* Assets.xcassets */; };
 		7CC441E925CA9ACC00974915 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CC441E825CA9ACC00974915 /* Preview Assets.xcassets */; };
+		7CC441F225CAA99400974915 /* CalculatorButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC441F125CAA99400974915 /* CalculatorButtonItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7CC441E525CA9ACC00974915 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CC441E825CA9ACC00974915 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7CC441EA25CA9ACC00974915 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CC441F125CAA99400974915 /* CalculatorButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorButtonItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				7CC441E125CA9AC900974915 /* CalculatorApp.swift */,
 				7CC441E325CA9AC900974915 /* ContentView.swift */,
+				7CC441F125CAA99400974915 /* CalculatorButtonItem.swift */,
 				7CC441E525CA9ACC00974915 /* Assets.xcassets */,
 				7CC441EA25CA9ACC00974915 /* Info.plist */,
 				7CC441E725CA9ACC00974915 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				7CC441E425CA9AC900974915 /* ContentView.swift in Sources */,
 				7CC441E225CA9AC900974915 /* CalculatorApp.swift in Sources */,
+				7CC441F225CAA99400974915 /* CalculatorButtonItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
